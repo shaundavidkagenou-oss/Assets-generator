@@ -1,0 +1,10 @@
+# PyTorch and torchvision are installed separately from the CUDA wheel index.
+diffusers==0.32.2
+transformers==4.49.0
+accelerate==1.4.0
+safetensors==0.5.3
+omegaconf==2.3.0
+einops==0.8.1
+opencv-python==4.11.0.86
+scikit-image==0.25.2
+pymeshlab==2023.12.post3
